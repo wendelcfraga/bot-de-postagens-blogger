@@ -4,13 +4,13 @@ Um robô simples que faz postagens na plataforma blogger utilizando WebScraping 
 
 ## 🚀 Começando
 
-Uma ferramenta simples que depois de fazer um scraping na internet posta o conteúdo na plataforma blogger.
+Uma ferramenta que depois de buscar por conteúdo na internet elabora uma postagem e envia para o blogger.
 
-Consulte **Implantação** para saber como implantar o projeto.
+Consulte o **Autor** caso tenha alguma dúvida.
 
 ### 📋 Pré-requisitos
 
-*Python3
+> Python3
 
 
 ### 🔧 Instalação e Configuração
@@ -30,11 +30,11 @@ Primeiro clone o repositório e instale as dependências digitando o seguinte co
 
 ## 📦 Desenvolvimento
 
-* Autor: **Wendel Fraga** - *Trabalho Completo* - [wendelfraga](https://github.com/wendelfraga)
+* Autor: **Wendel Fraga** - *Trabalho Completo* - [WendelFraga](https://github.com/wendelfraga)
+* Use essa POC como bem entender.
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
 
 * [python-oauth2](https://python-oauth2.readthedocs.io/en/latest/) - Biblioteca para autenticação da conta Google.
 * [wikipedia](https://wikipedia.readthedocs.io/en/latest/) - Biblioteca que facilita o recolhimento de informações da Wikipédia.
