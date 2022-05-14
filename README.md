@@ -19,10 +19,11 @@ Primeiro clone o repositório e instale as dependências digitando o seguinte co
 
 > pip install -r requeriments.txt
 
-* edite o script de acordo com a sua necessidade.
-* coloque suas credenciais do google no arquivo > "client_secrets.json":
-* coloque sua api do wordtracker no arquivo ` "postagem.py" `:
-* coloque o id do seu blog no espaço indicado no arquivo ` "postagem.py" `: 
+* edite o script de acordo com a sua necessidade;
+* coloque suas credenciais do google no arquivo > "client_secrets.json";
+* coloque sua api do wordtracker no arquivo ` "keys.json" `;
+* coloque o id do seu blog no espaço indicado no arquivo ` "keys.json" `; 
+* coloque sua chave de api e id do Google Custom Search no arquivo ` "keys.json" `;
 * por fim digite o comando:
 
 > python blogger.py 
@@ -39,5 +40,6 @@ Primeiro clone o repositório e instale as dependências digitando o seguinte co
 * [python-oauth2](https://python-oauth2.readthedocs.io/en/latest/) - Biblioteca para autenticação da conta Google.
 * [wikipedia](https://wikipedia.readthedocs.io/en/latest/) - Biblioteca que facilita o recolhimento de informações da Wikipédia.
 * [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Usada para realizar o scraping.
+* [GoogleCloudPlatform](https://console.cloud.google.com/) - APIS do Google.
 
 
